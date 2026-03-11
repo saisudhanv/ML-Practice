@@ -1,1 +1,1 @@
-# Practice of OneHot Encoding
+# Practice of Machine Learning Concepts
